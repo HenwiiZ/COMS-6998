@@ -1,0 +1,2000 @@
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 1}}
+{"Business ID": "0dDCDQz7DrKkSvu9h2hcQw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 2}}
+{"Business ID": "X8ZS-dgiMIJvhwf9SaDnjw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 3}}
+{"Business ID": "wfhMIiMh2A2psCGONOVSlg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 4}}
+{"Business ID": "g_xU-3gfa3urAyi98LFHPA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 5}}
+{"Business ID": "iSjPBJRiWqrgxW7ZM3CGig", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 6}}
+{"Business ID": "xq0cX_DgxiJMXwhmEl9kUA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 7}}
+{"Business ID": "lynQoI3w_pzYfHGeuUU-Qg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 8}}
+{"Business ID": "i6RhqnCJ_oUfTu5LikGXUg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 9}}
+{"Business ID": "0CjK3esfpFcxIopebzjFxA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 10}}
+{"Business ID": "ojbH3wnRu050hRhkmoxRiA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 11}}
+{"Business ID": "qHi_FA4zSEkFshXQ4Chc9A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 12}}
+{"Business ID": "vZgJyMZlpSSS_Y-duxd4_A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 13}}
+{"Business ID": "ZCAkVl5SeCDeBWg_xjfYeg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 14}}
+{"Business ID": "0k678lCWQyReNi0lARlOmw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 15}}
+{"Business ID": "LpVbI-E9C-CSp7WhU5h2Iw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 16}}
+{"Business ID": "Q1TpfbuPwKPFrNFyu-u2_g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 17}}
+{"Business ID": "_XLLSXPIjgoZQtwU3RCcQA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 18}}
+{"Business ID": "qH8PVeddtVs9cKN2pwgdkQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 19}}
+{"Business ID": "V9cBgn2RFLurwg6lwuLH7w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 20}}
+{"Business ID": "xLJnT-pB4VECJzmUf1Whpg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 21}}
+{"Business ID": "2UxAkvKkkWNwqZi9H0OzWw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 22}}
+{"Business ID": "rPTX2J5KGDkN1QhPD-QOvg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 23}}
+{"Business ID": "FXhSEZfIqjMZh4hR0_8jMQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 24}}
+{"Business ID": "R26zweQ8-xoZS7iHkXQOvw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 25}}
+{"Business ID": "xCHApgtkLpEyh0lz-uhZvg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 26}}
+{"Business ID": "xVduej7-JiPrZzsFXIkIDw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 27}}
+{"Business ID": "pCfGgX0WxGASGM4-Yhr2Pw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 28}}
+{"Business ID": "sfsjk1h50ooC2ioY7m48gw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 29}}
+{"Business ID": "XBZOes8kvUSoc9Xfu1wrCw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 30}}
+{"Business ID": "MaZWYgvu08NLQVRcDGGvqQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 31}}
+{"Business ID": "6tASYtO9zOrXr8-LPnAToQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 32}}
+{"Business ID": "Xf6e3HaP0AgMBxY7dEDkOA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 33}}
+{"Business ID": "sQw7aEos_0FmO0UFtrJokg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 34}}
+{"Business ID": "oowNI_aUmGEFa_VW8BFgRg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 35}}
+{"Business ID": "rJ4N10Nbh-GM49qOSGFoAw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 36}}
+{"Business ID": "62Kedrco374IuZ_OFb0BxA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 37}}
+{"Business ID": "Bb0h5Rs8ugSM2CjulRhfBw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 38}}
+{"Business ID": "Kqb7MjTPNkjPMoFRd-rWpw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 39}}
+{"Business ID": "lJsNGj70bmuBrcAubvfTAQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 40}}
+{"Business ID": "bnDfFdiCcPzhuNWUJORvLQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 41}}
+{"Business ID": "TzhAlljC_843JO7UDDUIaQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 42}}
+{"Business ID": "BkXb82Y2OIsQ5RpNNQOYmQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 43}}
+{"Business ID": "SVJNB9LqI13jtVyKMZVqeg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 44}}
+{"Business ID": "ynB8T3htx8s5V0YV8gVPGA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 45}}
+{"Business ID": "hQq78Foj5L062Nwyd_m9BQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 46}}
+{"Business ID": "jc7lVTvmYMIK5RNpENtS6w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 47}}
+{"Business ID": "xH7mEjh4Rn6KdHjXYNoOjw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 48}}
+{"Business ID": "QQfwlKFD6X8-ZXf7gfQZqg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 49}}
+{"Business ID": "X4hEgOBOLTYFhlWO-gAFxQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 50}}
+{"Business ID": "croh2zWlbPyCQTNS11klcg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 51}}
+{"Business ID": "5rX_7IkvFx5MKqS3ikQe3Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 52}}
+{"Business ID": "Lbs8QBRN1U7IYBo5Mcv-RQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 53}}
+{"Business ID": "olRNNJCJ2TJvPRmjBiOcGA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 54}}
+{"Business ID": "3g_gJ6NBU4n9iUX-Zt6geQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 55}}
+{"Business ID": "qrncvjkiKN5Z-JC06ygy6A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 56}}
+{"Business ID": "DpfE0gPBXj-aj2pnEh4E2Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 57}}
+{"Business ID": "DOa_Hm5HHT99GOvlhbydaQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 58}}
+{"Business ID": "8ig0yf0003DAp4YOGTlbVg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 59}}
+{"Business ID": "dDXtga5Kgo5B1twdezcZJA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 60}}
+{"Business ID": "U2aUFZARLeSMf4RQIxjuTw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 61}}
+{"Business ID": "3gqKLANaXNsHZnPDjKrcTg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 62}}
+{"Business ID": "D8UbXnZ1Q9zR8-sPPpsJ-A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 63}}
+{"Business ID": "Z9t-ou4JhiBu-n4-F7hDng", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 64}}
+{"Business ID": "VbFYau70iG_s6UNFwYtGVQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 65}}
+{"Business ID": "fLq5j4fkFmPD6I2tt6dSWQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 66}}
+{"Business ID": "tguMh2GgOcU9fu6WN3dqpw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 67}}
+{"Business ID": "R7EGjHWw0tNheY6-ahH8fQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 68}}
+{"Business ID": "ikx8R8u2lmxhpLGByCjgPw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 69}}
+{"Business ID": "M-odQWSEfsR2mVEw7nKG-g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 70}}
+{"Business ID": "scTDvJ2M2jDbb1ntVeIyxA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 71}}
+{"Business ID": "bVkjBJlAIwKAj9Aw1KVWjA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 72}}
+{"Business ID": "Lp8vAE5nHSt5zbu-lSGK8A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 73}}
+{"Business ID": "IoAUbSudW1Mds5_XY_01Rg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 74}}
+{"Business ID": "Z0VCrAW4VKIL7SteB6w8Mw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 75}}
+{"Business ID": "oJjMYhA6z1_BVaQpSdyl8g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 76}}
+{"Business ID": "4FD0TAxe70nb3ngk3sXF9Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 77}}
+{"Business ID": "8Oo2AtQEPDfxIOnA8wfXoQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 78}}
+{"Business ID": "WIj12zDqIbBucW1hXYhrew", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 79}}
+{"Business ID": "cOtB9fWWLrbaBebZDjJquQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 80}}
+{"Business ID": "LXmlfAmrGA3NfvYSfxIVvQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 81}}
+{"Business ID": "MdDj13LgIs0WdbIdiyqB7Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 82}}
+{"Business ID": "jLhKLKuNPMTzAMJgEY5DsQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 83}}
+{"Business ID": "VW2Epq3C8jqysu6Edpu-RA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 84}}
+{"Business ID": "l44CFBTejwL0ElKmkH7xQQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 85}}
+{"Business ID": "jWuUibgnTGsJibOrr6UUSw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 86}}
+{"Business ID": "-KfM32STVYND4v_9l1YRug", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 87}}
+{"Business ID": "AvTezlpt3GXTdSEnXbHP4w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 88}}
+{"Business ID": "A_fZL0ir_actclrL-ePTOw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 89}}
+{"Business ID": "kxv4jD_qXRPVrV0oPR7isQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 90}}
+{"Business ID": "Dqu-5RxNbbpBsL1Ssht9Ng", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 91}}
+{"Business ID": "tA_AoGEL_oGllbU2j77Shw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 92}}
+{"Business ID": "LJntAPKObO0OfydYm3_bzQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 93}}
+{"Business ID": "rYw5rQbWRX9buZHZbxqWdA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 94}}
+{"Business ID": "SNhDVaf_n7VDZcfry8mYdA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 95}}
+{"Business ID": "KSleHGTG1yL1E7OEFFPoNQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 96}}
+{"Business ID": "2wVirrAVg3ltAFHoHeXHMQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 97}}
+{"Business ID": "97q5nUQTuBo_h00XCxna2A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 98}}
+{"Business ID": "iKW9zBGWfE9CM6MfK0UtjA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 99}}
+{"Business ID": "v0opDMezc6pKgdfR22KUnQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 100}}
+{"Business ID": "wDuf4Qz9qsC62amLZgWNJQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 101}}
+{"Business ID": "ye-TSU-mu1Gd5TAJOpI5Mg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 102}}
+{"Business ID": "Y92VtOkTZ6BirkJbUKCMOw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 103}}
+{"Business ID": "5tWpAFpF618KJxBhHJzF7g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 104}}
+{"Business ID": "w3wKbjuNCZnYoPOr-FCk5w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 105}}
+{"Business ID": "0vg2Z-HPwkyVVX613j2ysg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 106}}
+{"Business ID": "zPK48x2wvTmJTQ_13bbeRQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 107}}
+{"Business ID": "tfMPbnQqJ1P1RIab-o6gtg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 108}}
+{"Business ID": "QaolMEijS7L6eodSneOdng", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 109}}
+{"Business ID": "K0qsGnFv-edPDqVBdLCocQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 110}}
+{"Business ID": "wdGMVLUzocmnl2tST0lheg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 111}}
+{"Business ID": "Dr_eezrA2Cc_azMYnwhRkA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 112}}
+{"Business ID": "LT0yyLNM84EiJj9DL0rfHA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 113}}
+{"Business ID": "zubN8Ve-RyoljRZV4NRxEQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 114}}
+{"Business ID": "lSrdxUNxyMgh5YU903JUiw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 115}}
+{"Business ID": "YvMLbSK_tWmaOjYGwOUd5Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 116}}
+{"Business ID": "lkWcA6W73HDgogF5D104-w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 117}}
+{"Business ID": "EZo6MdrZ_EH_MzUl93xkyA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 118}}
+{"Business ID": "wpJGWi1LQsCd7Leq3Y4RqQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 119}}
+{"Business ID": "HScFap2SwbUlfC-QXVkxFA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 120}}
+{"Business ID": "hUdRX0a_2ZZEmB8KCp-WYw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 121}}
+{"Business ID": "tsTGTBrz2TqrYRgdr6vEJQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 122}}
+{"Business ID": "Bwj7nzWphGV6FaZ_ygTSOg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 123}}
+{"Business ID": "x64xHVZoQj1ZOjzPqVprkw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 124}}
+{"Business ID": "znB_ZvfFDJWjqYFzuGV8qg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 125}}
+{"Business ID": "3cjw6qOQe5Qf_l_SciOfcQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 126}}
+{"Business ID": "Dqp5Itsj9dN0Ewz8Gm853g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 127}}
+{"Business ID": "DjLxykRuP8OFtGtPPZpfdQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 128}}
+{"Business ID": "54om5q7V4anmIXw2PdNJbA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 129}}
+{"Business ID": "FvsFSGzbmV56gqtYY4ZfQQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 130}}
+{"Business ID": "k8GFfCXO2FIIJIo0ICYSRA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 131}}
+{"Business ID": "UNyGz06_7RendbswIyNYtA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 132}}
+{"Business ID": "IhSVn0TaX8xXb3wcQ-fgcA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 133}}
+{"Business ID": "3fQ9IExhN9KMqGHVm_9AEQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 134}}
+{"Business ID": "zdX9mwhoknXXYL1GCstnow", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 135}}
+{"Business ID": "Gd3_3mxOvj2xYiqysV8rbQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 136}}
+{"Business ID": "kHlYnhMOoMBbe3VCZflpKQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 137}}
+{"Business ID": "mDajKjZjRN4tVGEJFOgF9w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 138}}
+{"Business ID": "EmJ7rfmv2y6lQZxgA8U__g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 139}}
+{"Business ID": "U74_3F7r3tMhd6dmTmDBxQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 140}}
+{"Business ID": "nI1UYDCYUTt23TpGxqnLKg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 141}}
+{"Business ID": "3OT1deSiIYhrcXWJ1sD3wA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 142}}
+{"Business ID": "JjzCmRn3q8JrlwHx8nFhAA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 143}}
+{"Business ID": "6QXp37VraLy8rGIbG2-Tjw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 144}}
+{"Business ID": "qFmyAqm0MQbdu_MHX1mhpQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 145}}
+{"Business ID": "hNFe8WhCibrqT4sFcZmAgw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 146}}
+{"Business ID": "pBNMZp_tKCAfRNx7-ybcHQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 147}}
+{"Business ID": "WEa266y5CsANNqvyfG7elA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 148}}
+{"Business ID": "pMD9ZQcyKfD6N2zb0kiR2A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 149}}
+{"Business ID": "5TnBfeoBpxPPwIXMGBMasg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 150}}
+{"Business ID": "zrV2yUsz1SxymeH51iRBRw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 151}}
+{"Business ID": "bSi2f2TaOr4RVTI5eFt0wQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 152}}
+{"Business ID": "C3tP0fNNAoxOAC3O406CXQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 153}}
+{"Business ID": "0IFDnYf3bhqxJR6hVrG7Gw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 154}}
+{"Business ID": "sR-KTsDa4vafaDak9Ik2sQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 155}}
+{"Business ID": "3oB2_2vpeIyxJt1GvlcZBA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 156}}
+{"Business ID": "gQ6DNeLNWQV-zwWyuFeBpg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 157}}
+{"Business ID": "agCuWjaUJ8xBO_PDDQRiGw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 158}}
+{"Business ID": "EN9_LsFpY44Hkzcnu0jfIg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 159}}
+{"Business ID": "MxMFcf9nRzjWbYREGa8AVA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 160}}
+{"Business ID": "Qgv2vyUV-DwK8YwrhU-jtw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 161}}
+{"Business ID": "XaEFFUabnbH8ZF7ccmSAlQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 162}}
+{"Business ID": "1dFOF1HPaThSCsdiqR7DrA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 163}}
+{"Business ID": "oe8GEFE4QLFAKt87y7zcgA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 164}}
+{"Business ID": "tDYk6DmmU3buWBs9G0NBXQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 165}}
+{"Business ID": "RoPrfBqmRTqw_cBqcWAfYA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 166}}
+{"Business ID": "s5JNxy0eAFgxS2Poi73ODw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 167}}
+{"Business ID": "wurhcLKXD4YJ5XfTxpbE5Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 168}}
+{"Business ID": "UiBQ8Uyu4wfOtEM1Rr8ycA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 169}}
+{"Business ID": "bT4CDzyhV-frXV6ijvXnvw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 170}}
+{"Business ID": "uaFHoq-a5XqxF-bsOK9_Qg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 171}}
+{"Business ID": "1YGpTYD8xIuUpK_beMhzSw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 172}}
+{"Business ID": "a93NwZxjkPQydJxR42oPyg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 173}}
+{"Business ID": "ipv4lBvbfVzCnSahqrJckQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 174}}
+{"Business ID": "i4cyV13lYIS4mcJKZW75cA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 175}}
+{"Business ID": "7ZQSMqWzvXMSetXnii2fBg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 176}}
+{"Business ID": "u5-S5ElOzXnavuZ2gFsCpg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 177}}
+{"Business ID": "OfqANzeWRlZrdHQuG7pI0w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 178}}
+{"Business ID": "YdAtCf_13UK-uvXuOMrhNg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 179}}
+{"Business ID": "rEbwps11tIERRkwQrIXQog", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 180}}
+{"Business ID": "IgTNgGE0qvTjkmCUzrNwtQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 181}}
+{"Business ID": "53lgp8fFEuK3Yo7yeXc89A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 182}}
+{"Business ID": "YIwYw_A_LRwK66HBTzogYQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 183}}
+{"Business ID": "4WyXnioHqTIcaFFN_TS1Vw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 184}}
+{"Business ID": "PGeL1b4xNJggpZsHEGoxjg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 185}}
+{"Business ID": "5u4T6-Z-KhHrRZ9g54pugQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 186}}
+{"Business ID": "lKxmH-hQ6ezKbq4URKrd-Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 187}}
+{"Business ID": "vWEKZVPIYFewfqCOkkvVIQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 188}}
+{"Business ID": "k34VgKhpuIRPEr8vKSMwjA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 189}}
+{"Business ID": "FfUc69vNKeTkGqdpnq0giQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 190}}
+{"Business ID": "nAcVK-Y1_ojsRF_04o-x-A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 191}}
+{"Business ID": "7erFgHiQmw7ZJfVPmOjeeA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 192}}
+{"Business ID": "WVsPyl-DGRu0O_rQYdIMVQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 193}}
+{"Business ID": "83ZcxzvtHX2PmsH_wPReOw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 194}}
+{"Business ID": "rBUTVjRs5CcEMe3dfVRZJQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 195}}
+{"Business ID": "unz_YBwCWg-O5id5rxSyDA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 196}}
+{"Business ID": "g42C_GsiLWzbVY2OZQsoyw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 197}}
+{"Business ID": "GCcJqfBm3Fq-ccYwit6xcw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 198}}
+{"Business ID": "ubeG-hyIV8qoSSAk_pAZ2A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 199}}
+{"Business ID": "BPErPpKSNluwcjbKRgze3w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 200}}
+{"Business ID": "mUl0wtO7tPkBocuJqZ-7Dw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 201}}
+{"Business ID": "AfF4zVbVI27zwgkzOLYDFg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 202}}
+{"Business ID": "3fBiB3slTfBpmf39vD7sJw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 203}}
+{"Business ID": "poRWXhCG1-mVxs1kuw_ZEg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 204}}
+{"Business ID": "I_Va7AZSHpEwX75S-3hHLQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 205}}
+{"Business ID": "pb_cHcy8D8UC-jQ-Q524ug", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 206}}
+{"Business ID": "DH6vM_NdIN5q-xfiHnJ3mA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 207}}
+{"Business ID": "cGSLzPA_SCWrN3cyT86Nhw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 208}}
+{"Business ID": "lgS9lE0Y9FhzT68zCj5QCw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 209}}
+{"Business ID": "EFihj7vsRRXiF5la-UURyw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 210}}
+{"Business ID": "jwKPVep2qZYBUA6SLLQPvg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 211}}
+{"Business ID": "nrPfcOC4mGnEL-9CpoGhMg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 212}}
+{"Business ID": "IqbHVeqgewmbeSMXBhbqSw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 213}}
+{"Business ID": "-7PgxPVUGZh__U3CxRFKxg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 214}}
+{"Business ID": "BbODF2tZuw4xW_RFwMzwRg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 215}}
+{"Business ID": "dpCSDy9uefOEcY44FHss2Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 216}}
+{"Business ID": "30pqvzHrCNmnodJCRyzrTg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 217}}
+{"Business ID": "LztkKM-lvRraBbS9TVXzcg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 218}}
+{"Business ID": "B7bxdtvLYR7Nmex4AIFd4w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 219}}
+{"Business ID": "AJKcsxpc9IthvhdEnfqogg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 220}}
+{"Business ID": "Vzx-7-jSEBz2g8NuGVhHvQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 221}}
+{"Business ID": "wPL0epJzosoFRYox1a5lvA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 222}}
+{"Business ID": "MzA6gitJKqfW4VrdS7AiQw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 223}}
+{"Business ID": "s25mujxKWphsyFm0Ji1xYA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 224}}
+{"Business ID": "Qsc2DrX3IR-uGfwnUlOzcA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 225}}
+{"Business ID": "d_TC6Om2EBTzHVm_lCgNtg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 226}}
+{"Business ID": "3W6S2wraTAj5y4Cd8eQvvw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 227}}
+{"Business ID": "Ece_DRuD1yQjRPJBAebRpw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 228}}
+{"Business ID": "eVDV1ALwvre01Xo8v6BCoQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 229}}
+{"Business ID": "oD0mN9vXuc1gFRyw1CG-Pw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 230}}
+{"Business ID": "qGgQMVExGERqGhZNDM2ROg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 231}}
+{"Business ID": "H1jops1lmuhrq9lP7lEGJQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 232}}
+{"Business ID": "k_y6o8zqI3cODdKABwWZ9g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 233}}
+{"Business ID": "nXh79laNQ7leN92F5Ore-Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 234}}
+{"Business ID": "R3UNnA8EbjhNWBHS0wJ0VA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 235}}
+{"Business ID": "fa5a7jksUak7yleWLWMigg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 236}}
+{"Business ID": "6kCo3xb87Sc3Aa5ZSWzNnw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 237}}
+{"Business ID": "3Rah-cvFk79duFQ83voQ5A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 238}}
+{"Business ID": "2lJwfmyRKO8zFz5Xuiw11w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 239}}
+{"Business ID": "VIur-OanRPkNvbo9rXRlEQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 240}}
+{"Business ID": "A-ert0jDRBfku9ogyW_mEg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 241}}
+{"Business ID": "7hh2eP4HVkyjtpcqeITk3Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 242}}
+{"Business ID": "g_5V15Xp1OvB1QXuGMstYA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 243}}
+{"Business ID": "-2FAuHbWsc_rxuSaeYAhCw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 244}}
+{"Business ID": "kwqOmEwWJ0D9PyCdFGE3-g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 245}}
+{"Business ID": "wqdFd3DZD_uTXRW784mFkg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 246}}
+{"Business ID": "kBZggrnSP1kcUMnsnfkTaQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 247}}
+{"Business ID": "sgKNAn72O2XMQXS6AWmf9w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 248}}
+{"Business ID": "_WXa2M3gz2Mi0ys3s88nDw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 249}}
+{"Business ID": "RkcQl4uEJWblWf4xX8ssqQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 250}}
+{"Business ID": "v2dtG37r1ThqtfEfiFsAUg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 251}}
+{"Business ID": "bDsXyYwzk4I9_7l51D_gaA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 252}}
+{"Business ID": "neQM053ovAOrf1sVSAPI9w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 253}}
+{"Business ID": "9FwX2ye1eCxnPVoQOHHr3g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 254}}
+{"Business ID": "qu3niqEXOUdNxCCXnSPBYg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 255}}
+{"Business ID": "7_Dwf153h3_waVtmfYd8QQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 256}}
+{"Business ID": "SyvC0s3y0ZrtnLbwnvw7tw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 257}}
+{"Business ID": "Va_mnsEvBghHXvc7uZIWJQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 258}}
+{"Business ID": "kNOr6_g6QfBHdhf89j3g5w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 259}}
+{"Business ID": "FFKUWNdzq1ObyGBDDLqckg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 260}}
+{"Business ID": "q2bIyvU8CQwiB6xe_iVs0g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 261}}
+{"Business ID": "l1nX-f46dmOEmYPoiuLSaw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 262}}
+{"Business ID": "mOP2_wjgUMqELKDL1Y-U-A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 263}}
+{"Business ID": "GKZa6xX1ZctdDTLDyfGBHw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 264}}
+{"Business ID": "lQ8Fzgji9qmgRXkFcvAsVQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 265}}
+{"Business ID": "E7q1Qf6380N_aMqz28EgNw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 266}}
+{"Business ID": "x3_DaW2lWCNovheuZV_nAw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 267}}
+{"Business ID": "rkeH5HJIuX7ZcOaYNum9xA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 268}}
+{"Business ID": "KavW0SjAiElP2ajaexNQDQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 269}}
+{"Business ID": "L37A2JWXfwR_PgKColA8xA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 270}}
+{"Business ID": "2rqb2T5IS2D7A6UB5QwNKw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 271}}
+{"Business ID": "eQKYZWnBjPUjINAnFmrmbA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 272}}
+{"Business ID": "NmJ2xtfZrscfWB_a5wEbXQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 273}}
+{"Business ID": "0GftSP2dRwEzujkv2VKIgA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 274}}
+{"Business ID": "hh0W5CPtx2MoyQGb1kAEEA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 275}}
+{"Business ID": "d96eV2MmIFi4zNNOxBdIZQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 276}}
+{"Business ID": "lpLd3AFaMOV7LfPtvUiq8A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 277}}
+{"Business ID": "BLYomPDQX5HkNWFJ2Lxfpg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 278}}
+{"Business ID": "C6NvtFvXo86_kEWi3qBYWQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 279}}
+{"Business ID": "aije_BqBVVl-6T13QsnRqQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 280}}
+{"Business ID": "FH978pIP1TLRuPAH-MbWIQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 281}}
+{"Business ID": "1fVp9c5Vw04ig171a_juRw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 282}}
+{"Business ID": "5z1CFWRQYu38S6UMIckT9Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 283}}
+{"Business ID": "wobICp6lQP7Y6dfnJ_4Ujw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 284}}
+{"Business ID": "lmiwPS9tl3cyMDGDeVstqQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 285}}
+{"Business ID": "OvdCm3j_5HzItolfvwrEUA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 286}}
+{"Business ID": "Qn-qGoIkj-9uApdxb_VTeA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 287}}
+{"Business ID": "WRPJeH3goSpj5ke3Pkrnfw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 288}}
+{"Business ID": "ynIx549QFj29o84y1RSGyw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 289}}
+{"Business ID": "a52GUjv7jYD3Baa0Ltbytw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 290}}
+{"Business ID": "wzmeaMTm5cZ1JCjep7iQeA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 291}}
+{"Business ID": "JFFVmuwj8pnSLePgy3f2Iw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 292}}
+{"Business ID": "6dVXDdgzDEVt4DvHzpWo9w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 293}}
+{"Business ID": "EAqXEChadTFNm2flg_Y6IQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 294}}
+{"Business ID": "2UmeXoBQ6zRNn0Zv_VcAjw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 295}}
+{"Business ID": "OX2B4KARPKNTxC39wpcqDA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 296}}
+{"Business ID": "D13m2P0qKQUWNqIW-lpHZg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 297}}
+{"Business ID": "XoxEVVf5Ci8nibQ-Q4P0nQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 298}}
+{"Business ID": "jXL7zCeuhZnQVei5rfq7qw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 299}}
+{"Business ID": "rsbjGGa8kh14ZWYSnK5rGQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 300}}
+{"Business ID": "v5884XYNUh4yXbhAhvL9hg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 301}}
+{"Business ID": "c_Zpnnae22V6MnMtYhtl0Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 302}}
+{"Business ID": "6oQKDCJrgDffPKXPTPBXlA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 303}}
+{"Business ID": "ak9vroilf-vpA_GSNWX2Jg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 304}}
+{"Business ID": "CesS-E8Q3ztX6VnkXO6wBg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 305}}
+{"Business ID": "B87c3bE_u53yNYO1cmHSIw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 306}}
+{"Business ID": "hWkbadE0u-Eiqg9SAm176Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 307}}
+{"Business ID": "rHg81VzTGVREMCfMmgYMog", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 308}}
+{"Business ID": "RoXFN-T1s6moM5smbY_5Gw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 309}}
+{"Business ID": "zYoL-o9YJpGTwJ-Gmj8AFA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 310}}
+{"Business ID": "YoGcGxo9JxE7NtmMtPaNng", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 311}}
+{"Business ID": "qbLLdO0VEAWXGnygtQfoDQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 312}}
+{"Business ID": "w0pDi_iMZd5MqYQ7t5q1dQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 313}}
+{"Business ID": "6OWMji5GiqRlRPZSb1lJ4A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 314}}
+{"Business ID": "KEWIhmU2R2kZH3BtARkWlg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 315}}
+{"Business ID": "6NfeqE-5OBXfGBXhr4PJVg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 316}}
+{"Business ID": "AlI7c_m9flexz49nzgam2g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 317}}
+{"Business ID": "EDLKX7cCxPbmbmo1XG3xJQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 318}}
+{"Business ID": "WgQkB7cbPNgj0pLin7gQtw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 319}}
+{"Business ID": "OXTcpNk9ZXuOxPnjpcSs7w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 320}}
+{"Business ID": "SNDUD4LFjVHWwrdAkokxRg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 321}}
+{"Business ID": "Jr8S-deYDqbDoo-eJI7nyg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 322}}
+{"Business ID": "YY-qRDgWpHM4Rf7PZ2zwmw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 323}}
+{"Business ID": "xOL2SC34gdhKHSbyaDz9BA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 324}}
+{"Business ID": "qf9ONR0LAAFZ8fLDRkVHww", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 325}}
+{"Business ID": "9UkHgv9R3LakP0vNj6DMIg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 326}}
+{"Business ID": "5FbVGhTO8U4wh0AATsN9tA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 327}}
+{"Business ID": "Jn_p5WaprUY3Ql_539gsWw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 328}}
+{"Business ID": "vLsTPg42rkgN5rUpNfg1OA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 329}}
+{"Business ID": "P2bxlKAmRWZIpHdJ_JT3fg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 330}}
+{"Business ID": "U5dCWjAxrvLLMH1ErpGfvw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 331}}
+{"Business ID": "XDv71A1J3aIOu_W5sVzZ2w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 332}}
+{"Business ID": "isIFCDLE3VIDJcqhVy_klA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 333}}
+{"Business ID": "7yi9uA-LmrGpG6OOuK2byg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 334}}
+{"Business ID": "lFw3pv2MQ588kSfWodSIAQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 335}}
+{"Business ID": "bAMTBEztHz4zQqYiIyzf4w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 336}}
+{"Business ID": "-T_5QJwgPMxfXTeOmpImsA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 337}}
+{"Business ID": "QBhHq4eN7rtFzmDUciVL-Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 338}}
+{"Business ID": "kWJF8L1u5jdlkLBItUu16w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 339}}
+{"Business ID": "emaMBqN_eWu71rgnQEnG3g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 340}}
+{"Business ID": "NebgteFykeM1gwiVgPcCHw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 341}}
+{"Business ID": "-6KT1D508e6zvqHJvv4r2Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 342}}
+{"Business ID": "pjbMNd88LRNxvrwaO8kEhQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 343}}
+{"Business ID": "3nATnhLyWRvbUGRwK2zdXQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 344}}
+{"Business ID": "tS4aiWBYgzlqKX898jr3_w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 345}}
+{"Business ID": "bKXnm2k44mSdU0fP69lY-g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 346}}
+{"Business ID": "LOSeyhiSWBPa6fS3H7xQMw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 347}}
+{"Business ID": "u6Yrkowq8k5zBpClvjX2FA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 348}}
+{"Business ID": "dRKdRpPEo6rJ2X0RYbfZzQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 349}}
+{"Business ID": "bacGm8cL-vUPHdR18_M7bw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 350}}
+{"Business ID": "JaKLZrh1Y_2qB_0Gc3bk3A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 351}}
+{"Business ID": "RgIFYmjtBp5k90AK1jP7Zw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 352}}
+{"Business ID": "DKGUSLiqNchBNatKoPM9QQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 353}}
+{"Business ID": "xVPTI1ytXt2PLU-strKcnw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 354}}
+{"Business ID": "6QAE-LRmL3OEsHXGT9kuNw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 355}}
+{"Business ID": "uPVYeVOSLmvAkbxM9cTAQg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 356}}
+{"Business ID": "XfHgiIsoo1Pr_v04bx9ptg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 357}}
+{"Business ID": "hBbAmEYXM4L03AU9Vt_p9g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 358}}
+{"Business ID": "-lgNzAEyFr8LCTuBTWnAMg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 359}}
+{"Business ID": "RTFIMX31BPeZzx7kJJ1SCA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 360}}
+{"Business ID": "yj9vVa08ABH6BBOLHMfJag", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 361}}
+{"Business ID": "tsHdT1GDibhYYA0JA7Z9tg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 362}}
+{"Business ID": "6KQ-jlXjOgb_uVeZxgimqQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 363}}
+{"Business ID": "PGBHteqfNcTqesQFKqqdsg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 364}}
+{"Business ID": "RUnj4RTVOSbbHE5zyguhrg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 365}}
+{"Business ID": "ovOupYdkZOWUeDMOdt--ng", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 366}}
+{"Business ID": "AbfZkSRMtiHE3naWrN-0Eg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 367}}
+{"Business ID": "Qwd4Tv-CqgO2Yl9zZgkKOQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 368}}
+{"Business ID": "ieOIBz6Gfqmwm1B0wUzh9g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 369}}
+{"Business ID": "S5VN-lFmTdI5VVQ0qFyfCQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 370}}
+{"Business ID": "sGwQYKPaMJ-tD2E4fQ0EJQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 371}}
+{"Business ID": "W-i6X2KWxRjsG05CgIM9ow", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 372}}
+{"Business ID": "qgPYGl1Nuie2XBF1YqJHSA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 373}}
+{"Business ID": "WCbY8VI2MxsalL2_0i7tkQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 374}}
+{"Business ID": "b7uTP_afs5Gkf66K7yDl-w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 375}}
+{"Business ID": "AEkpyAGcVe5NgH2Nb7fCNQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 376}}
+{"Business ID": "Ej-hrhc8HFWfijN4X5akOg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 377}}
+{"Business ID": "2PY9Fty_6QRpnZGIxo34eQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 378}}
+{"Business ID": "mJtzpKUPK2GquqpR9JS-jQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 379}}
+{"Business ID": "4NCvsUR3cKLaPgIZJK622w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 380}}
+{"Business ID": "CKG7LVmSlvI93scyb1aVeg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 381}}
+{"Business ID": "KBZQN540Xz6LbXLRVOMc0w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 382}}
+{"Business ID": "fPW_GBZsnBNsIzK62sCHBg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 383}}
+{"Business ID": "kyJ0CtJ2Lrid_YdZWobf7w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 384}}
+{"Business ID": "jjJc_CrkB2HodEinB6cWww", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 385}}
+{"Business ID": "eAlXJKxQ1zgYNB0LyHHlmw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 386}}
+{"Business ID": "6LfskUyZzmcDSV6h5kOwGw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 387}}
+{"Business ID": "mRhPjOOf17Q-a8CwLbmBvA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 388}}
+{"Business ID": "cQRQXI3-B5eGFCi_aj1IyQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 389}}
+{"Business ID": "lgHmMRBaU-48kGaNz3jYxg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 390}}
+{"Business ID": "EbX_9tqAJs4gW51gZpOB7g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 391}}
+{"Business ID": "GrxbGiLMkl1jd665k1lbIQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 392}}
+{"Business ID": "PBh9J_5HF8dtg2MTTUqVnw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 393}}
+{"Business ID": "EYpS39ad-GfC5l2F7PwZig", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 394}}
+{"Business ID": "FlZ1zdVEKWv7dwqm8Uw8-w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 395}}
+{"Business ID": "dv-RaOwKFizDe4c5-sVJ5w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 396}}
+{"Business ID": "cWPdP8_GqEWxZKRiOonfDg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 397}}
+{"Business ID": "56wxE888GknVcUeAXBfqFw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 398}}
+{"Business ID": "jY24wzoHi-DSHYSybWao7w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 399}}
+{"Business ID": "XiIBASyS65DX3E_staW0JQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 400}}
+{"Business ID": "_eWN3zih_cnY0fiLWva9EA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 401}}
+{"Business ID": "aZMVSzm1ypJOkRsLVaMUVA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 402}}
+{"Business ID": "Ut4N7Fxikkxi214fy5Qo2w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 403}}
+{"Business ID": "za9mYaRVWkwKkQfjRgvU0g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 404}}
+{"Business ID": "vODvsWDPppO5-AoKpjcQ8w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 405}}
+{"Business ID": "qd9_gxrmskbOT6OLN9sShA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 406}}
+{"Business ID": "NjBgTtcJgdXKLvqYt3C8CQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 407}}
+{"Business ID": "H87c1gVVCKneyI0LxaDFxQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 408}}
+{"Business ID": "SFleMiroXTeWnXfonRic-w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 409}}
+{"Business ID": "x_t-FtDa5HVgc-wecp0HBg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 410}}
+{"Business ID": "e5wK3I_THzF4Ce_OgoSCQw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 411}}
+{"Business ID": "VBb86ambhnebBuFjVYU0Zw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 412}}
+{"Business ID": "i1eA3GawUFL-e_DbL_rg1w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 413}}
+{"Business ID": "YE2FPm9o32ojTG2_1pJBYw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 414}}
+{"Business ID": "LU4mHDTgFxOuvuK1SFbJag", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 415}}
+{"Business ID": "EV2grf7NhNHQTmBXfu1-NA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 416}}
+{"Business ID": "c6fkE7yNbpl1akgpEjmtkQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 417}}
+{"Business ID": "ZpifrJsBsz7RUT1_Tyu9nQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 418}}
+{"Business ID": "56rTisZA_iEekMsyZHvSHQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 419}}
+{"Business ID": "3DmJv5rHFNyQykaUiXBOvA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 420}}
+{"Business ID": "hNLfVfnhexy7qegeYY6tkQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 421}}
+{"Business ID": "Nt3Y26a6OMtdBe8xMMJjqQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 422}}
+{"Business ID": "XzMVQtnifzlFoq6Uj4795g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 423}}
+{"Business ID": "QDApjjZAPxFvvbll86NMTA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 424}}
+{"Business ID": "DyC5HxYK8E09N2Hb-6WyGQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 425}}
+{"Business ID": "UJtUaOXnwtQA1rb-4BHsCg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 426}}
+{"Business ID": "XmycF9-fpEPlgMe8_qgJrQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 427}}
+{"Business ID": "cJgOTr_PbcGE53-n8B-g1Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 428}}
+{"Business ID": "Yj3pRPnIG05AjRfGP0Afjg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 429}}
+{"Business ID": "iFAAI-7NoceHYVybom5SyA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 430}}
+{"Business ID": "QGldR7s9_qV_35iGtkcNyA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 431}}
+{"Business ID": "_usWsAYSKKV2q8xw-3ajrA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 432}}
+{"Business ID": "zZkplEhRoGcsDxPgXpxEdQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 433}}
+{"Business ID": "rJeh77RIvtmISisvVoy6TA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 434}}
+{"Business ID": "ZaJS8EKQNSaQpwpmgN-vVw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 435}}
+{"Business ID": "S-aX_Pz8F7nDL6kRThKcHw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 436}}
+{"Business ID": "NMX7QiEh1-ZhAY52t9-Iow", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 437}}
+{"Business ID": "ApjmgPwYXgrb0JurjQZO4w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 438}}
+{"Business ID": "BcOuqkUniZJG5NLpdzeOYQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 439}}
+{"Business ID": "VoAuIReq_cPUrFwxbWqG_Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 440}}
+{"Business ID": "0CXOlOPhQSSg3lSs27GOTA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 441}}
+{"Business ID": "ItZ8CzZAGXGjB8_9HxDIXg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 442}}
+{"Business ID": "YKsHo3V-PkeRQdLYOdG7ZA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 443}}
+{"Business ID": "obIX3q93sNKq9VcbbRIfTw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 444}}
+{"Business ID": "MUeccJfwQZVkSLe1-C0FVA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 445}}
+{"Business ID": "9gktK6DNHb3k0y-o6nP7pA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 446}}
+{"Business ID": "MnjB_RIJG0sDTk7dGggA4w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 447}}
+{"Business ID": "d6pcRMV1YUDFTKO_p9d-sA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 448}}
+{"Business ID": "Sj2StOWkhHIPE6_sS5RMCQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 449}}
+{"Business ID": "PphgRM2pDtbAB6pBsU6r3Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 450}}
+{"Business ID": "SMImQM_JfZkIZwflTgOAoQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 451}}
+{"Business ID": "b7VlW8XohVzUyePYgkYtmA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 452}}
+{"Business ID": "SbDFRevMMi_6o-6-mzWMxg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 453}}
+{"Business ID": "TjB0wn5MyHM5rDMBCSCnfw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 454}}
+{"Business ID": "b03GEE_pYlLCdD6yShZKqw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 455}}
+{"Business ID": "vkgl6UT8e7PXoVZUhxXq8w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 456}}
+{"Business ID": "l_gQf_4NgPMJcx2OkjsMfg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 457}}
+{"Business ID": "hdiQrGDT8enOzpxaipBzNA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 458}}
+{"Business ID": "YzyHW3w0HUyaG8EvplNT1A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 459}}
+{"Business ID": "GGRMY-twaqZf_NIAprBJkg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 460}}
+{"Business ID": "3K7Kc82bhU6-qjAjsBs3Fw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 461}}
+{"Business ID": "A_e9adJ7v_U7trur2JMrgA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 462}}
+{"Business ID": "OmCJH9XPC_Zc9S7CWe__Xw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 463}}
+{"Business ID": "TadRviRC9Z1WhgSsGi3Yow", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 464}}
+{"Business ID": "GzY2EjCmGNgvRd7IE20fTA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 465}}
+{"Business ID": "16heVvLqYfLpl8mC1RN3Bg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 466}}
+{"Business ID": "l7G5tDA96xbA_bx1ZgkOeg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 467}}
+{"Business ID": "IdHZfmpp8MmQ4_KZL2qXbg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 468}}
+{"Business ID": "bgnM6uy66zupYzb4QdL3vA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 469}}
+{"Business ID": "XjPfgkSP-RDEkq_ox8fE3A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 470}}
+{"Business ID": "WRRs3smfm6rHP5k4Slzr3w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 471}}
+{"Business ID": "g4kglewnH79Bvv_MmOhxbg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 472}}
+{"Business ID": "FMwu9h0KUl3mFDuE-WDbcw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 473}}
+{"Business ID": "PUwrkoUztUYs4VdHlK9qBg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 474}}
+{"Business ID": "MYPes7EWP5aLiVG1Z_9eFQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 475}}
+{"Business ID": "kwGaeWUVC_MIxMFw0sM-Ww", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 476}}
+{"Business ID": "RQRQOO_CGhj16AIz4KqlQA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 477}}
+{"Business ID": "GmtybiZEicQ4qqPTzhqVew", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 478}}
+{"Business ID": "8FJ8XVa-duF8rPeyfscUPg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 479}}
+{"Business ID": "yNk043q6XT2HmiL_CcJqVQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 480}}
+{"Business ID": "AA54rKcNIMglGhofj0huvg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 481}}
+{"Business ID": "_MdNLeBAcwv5Nb2yArZFvg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 482}}
+{"Business ID": "wxUTM-FkpCvnoTGJfSXkWg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 483}}
+{"Business ID": "dTZ-q8CwEDo9iVKM0tydnQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 484}}
+{"Business ID": "Ri0hq80RV6yrPDHmW4Gu3g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 485}}
+{"Business ID": "ePVlFbTzdVQFWie__kdplg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 486}}
+{"Business ID": "gcEMZjjqy5Ucnv_5Pv-q1g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 487}}
+{"Business ID": "Aux2Mp7bGnF3S6h60ab3iQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 488}}
+{"Business ID": "E1QQuFMX7DAEt8jV4attkA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 489}}
+{"Business ID": "S0CYlCpjRfq13k2qz06DHw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 490}}
+{"Business ID": "8Ef9eUwj4fO3uyY1dgEHsg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 491}}
+{"Business ID": "_7rU61c3WTVfPS_-FNup8g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 492}}
+{"Business ID": "iCjntZ9WI6Vl_onP_JqZPA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 493}}
+{"Business ID": "z6HMM_cSraJFkQFvSjWGDA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 494}}
+{"Business ID": "GcHaiid2EZpYBTOoquvhUg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 495}}
+{"Business ID": "pMgk7E6bCG5Aj2sLuowobw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 496}}
+{"Business ID": "ZybTcEwBUeQqiiyyBpoiPQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 497}}
+{"Business ID": "0mRtZ39VQI5CfHEJ7zDwug", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 498}}
+{"Business ID": "FeTHmYg5RJiE23yFIPO7sg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 499}}
+{"Business ID": "dn8_HgoGUE4IFzwPI6GeLA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 500}}
+{"Business ID": "KIPrTLyJb0mHpsxuaCByZg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 501}}
+{"Business ID": "bGOZTD9O00OkVA1Pkt3OuQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 502}}
+{"Business ID": "y8JSKjpWeQg8vzm5wovOwQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 503}}
+{"Business ID": "Ex_qolTE5syJ8so0NscfGw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 504}}
+{"Business ID": "qEe7nIhPfEL6L0-VYhWRrA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 505}}
+{"Business ID": "gJXNSJ9VXTuCFmp_Kl9TVQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 506}}
+{"Business ID": "VQ5YGa4L4AT3ugF61hM9qQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 507}}
+{"Business ID": "4--r7DCu5l9UEIjs4OwKSQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 508}}
+{"Business ID": "zPMSuQJRpXi11G_Tqv1LJQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 509}}
+{"Business ID": "a5Ei7GYvlXCDv-j3q1lBLg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 510}}
+{"Business ID": "kbUZnWtro1h8BuPcSOd74g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 511}}
+{"Business ID": "LktxVJKPev11aC5SeqlLTA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 512}}
+{"Business ID": "RffIwNrMmEf5auDVP1eURA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 513}}
+{"Business ID": "g512kssHLLTdDbUJHTmJFw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 514}}
+{"Business ID": "31fcTAZjm1MG7abejOiI-Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 515}}
+{"Business ID": "joSU4pnYVMhAuZ6ccaqqdA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 516}}
+{"Business ID": "yvdaxotCYEt9HNt7GbERJw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 517}}
+{"Business ID": "h4co9O0SLuvhTtr_Cs9IIQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 518}}
+{"Business ID": "1nE1Kh1NgbtfRKh5byGQkw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 519}}
+{"Business ID": "gVcQC9fcWFB5kyLjFCsx1w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 520}}
+{"Business ID": "3ESDUFulPVoMJdsqPQGm0A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 521}}
+{"Business ID": "qVVBIO2w2HfEGS3SA27RUg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 522}}
+{"Business ID": "5uTJ_4fWfT1ImuwCLN9xGA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 523}}
+{"Business ID": "GJZnf3B-ADjlCV1NXsHvGQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 524}}
+{"Business ID": "1Ed-tb_0dBGrXfsYyehmvg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 525}}
+{"Business ID": "5RjZCsXuWPclyrDsnsXw7w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 526}}
+{"Business ID": "Mx4jHwGh5ZFHRMyiWZ_xfw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 527}}
+{"Business ID": "AeLz0uoZH3hxmkcXlwUIGg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 528}}
+{"Business ID": "wo7-TKh4B37RTBjPNtkp7w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 529}}
+{"Business ID": "bB3mkNsEkIpkwuaKSKxSfw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 530}}
+{"Business ID": "dVAI5zh29psdbHp9wGXwVQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 531}}
+{"Business ID": "8JUmgPzucg0qbc8oRSYgJw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 532}}
+{"Business ID": "m4Q7Te--vJwBPi6j1_1mfg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 533}}
+{"Business ID": "BtVnZmPY51ZWGY63-mzJ7A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 534}}
+{"Business ID": "rlJ2Moc6A9R3qpYJlR8D3Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 535}}
+{"Business ID": "qR6vC-y7o_ts-s-dqg4h1w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 536}}
+{"Business ID": "L6fT2SWSRlwBEc3jWqV2Ig", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 537}}
+{"Business ID": "9K8VhYvIA26AFMQY8S1soQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 538}}
+{"Business ID": "VxzDpDIlwmWkbR5L_dB2yA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 539}}
+{"Business ID": "8cyRl5HIQzbkYD7orq223g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 540}}
+{"Business ID": "nxTEuWKzkK1tCF4LrhFSUQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 541}}
+{"Business ID": "7rTl_d-dqlK5dGG31ogSBg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 542}}
+{"Business ID": "-bBJi79fbtWRzcs_rsU6ag", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 543}}
+{"Business ID": "gqUR7hd3NsxOD_JrD-iFfQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 544}}
+{"Business ID": "RdGWCbcxA79G1ZMPVL3SGQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 545}}
+{"Business ID": "L3reOLLPez7lnOhyfCpvkg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 546}}
+{"Business ID": "m2_ZNFos5ugAwe8ft8eaEw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 547}}
+{"Business ID": "QlVBFWxQ-HY-O2AmqHiJxA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 548}}
+{"Business ID": "ZwSGKO5hy4tbW6528qEgkQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 549}}
+{"Business ID": "TU_BU9HLflYI2xlyqVQdRA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 550}}
+{"Business ID": "9BKRqcbYtVfQlSZjQGO5HQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 551}}
+{"Business ID": "G9uSeXMXv6QB8ZEQeOhYVA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 552}}
+{"Business ID": "T-EvW9maBebxjs4WPZNpNg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 553}}
+{"Business ID": "y-c0jyeEoCotVLPrT8iI7A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 554}}
+{"Business ID": "4zuvAX0g_h_vBgE34oALhg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 555}}
+{"Business ID": "bRLiKxdNdrA0KHh5_8AYfg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 556}}
+{"Business ID": "S0Qydvh12n5E_uodsLa8eA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 557}}
+{"Business ID": "ldEnlFvW6Rqqoryh6hdDpQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 558}}
+{"Business ID": "OWALknbRruLyO8KFPATf_Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 559}}
+{"Business ID": "NXZFu7KHBrG02gzYneY5Xg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 560}}
+{"Business ID": "_haIj6t4bGOmbIl3xtihpg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 561}}
+{"Business ID": "bfg1MmcnH6DO1dgF_tLxkA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 562}}
+{"Business ID": "TWI3efEcCVsTErKFWz4Zqg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 563}}
+{"Business ID": "BAKjtydOJj6KrsGCo-6DEQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 564}}
+{"Business ID": "4wfFugovobVrqSQ77ppjaQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 565}}
+{"Business ID": "VG0XPr9jSrgd8p5WPD1HaQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 566}}
+{"Business ID": "8Jz2IfS-BGCm1GniqJVe2A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 567}}
+{"Business ID": "inp9N7bo9zqQSa8h8UBhqg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 568}}
+{"Business ID": "m6bu1AGIIIM9GNn9_cjsmg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 569}}
+{"Business ID": "6wJOojpF2c4lLeBNbTBB0A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 570}}
+{"Business ID": "6gE9N5wD4K-bbmSEBm7Lhw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 571}}
+{"Business ID": "g4EXxoV0z_TnyWF8h9xMKQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 572}}
+{"Business ID": "A0saPXtRGKl-SVJGQyQAOw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 573}}
+{"Business ID": "01m-oqxaCifh0s0eU03bBg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 574}}
+{"Business ID": "OyUqDYNctt81gsNLvfHp5A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 575}}
+{"Business ID": "AQqUiXi0hn1xu5qVfM54IQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 576}}
+{"Business ID": "iQKKS_QwYcgrjFISuDClqQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 577}}
+{"Business ID": "sxv1oJxG8uu6u4tjKHiJMA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 578}}
+{"Business ID": "B3i4zs5wquFu1UZyzYJ-bQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 579}}
+{"Business ID": "yYb0d4LHFgH65KZeKuxwpQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 580}}
+{"Business ID": "E1fFQqXuO2Ido9hGDmTbDg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 581}}
+{"Business ID": "FJFliqqHXFZutkp_dmWdfw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 582}}
+{"Business ID": "vbL4Ef8zf4dmdR9Gyl5lkw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 583}}
+{"Business ID": "Dj0jblwuWTftL1D7_Kun6Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 584}}
+{"Business ID": "qFZuYdXy57_ydnsEFdfOxA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 585}}
+{"Business ID": "s-VHq3N7aJaIxkwcfEYW3g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 586}}
+{"Business ID": "-OixbLnFLCzQclxCSbUQ8w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 587}}
+{"Business ID": "9EcqEGu_0POrIyOPJCC2Jw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 588}}
+{"Business ID": "RoqLH-4rDugHlduthnZggg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 589}}
+{"Business ID": "HDoJIH-qW9FqJ5WB-bKTqA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 590}}
+{"Business ID": "8dSqyc5rHkqRa_oHk2v3xw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 591}}
+{"Business ID": "TV8v5BQXMprtMwhkUXjLdw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 592}}
+{"Business ID": "GDqIF-JMOO-8EM3yKn25_w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 593}}
+{"Business ID": "xrTUkzB4YQTXm8TKdNyJ4A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 594}}
+{"Business ID": "czQm6Ull9V6b-64amhUMyA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 595}}
+{"Business ID": "zb78ua-FlfFRj8v082giBw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 596}}
+{"Business ID": "L9N9O2u_M9Daby9_myK4Yg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 597}}
+{"Business ID": "Tk605KjXVTnXpGkOSuVBaQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 598}}
+{"Business ID": "VTNMeipIiyRRenXcRBedpg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 599}}
+{"Business ID": "MXstrG3HjF83LcxAd8OpTw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 600}}
+{"Business ID": "XkL6fOBtaIqVCMXVCY9row", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 601}}
+{"Business ID": "Puyzn1gagH9TsJz7EBJs3g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 602}}
+{"Business ID": "O8-3tePMQIB4Kv_-JCrM9g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 603}}
+{"Business ID": "hDT_KAXQgHpchcwG5_gv0Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 604}}
+{"Business ID": "00J0yKkOuOxMhqt-Dg9daw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 605}}
+{"Business ID": "fahnqhxhFqyMAHKVC01sSA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 606}}
+{"Business ID": "ezh0BG1qWKKLJa99gb-XzQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 607}}
+{"Business ID": "1-o-uoVSaeUcorTYmHc6bw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 608}}
+{"Business ID": "8UlRXXPaSI383aiOiJQi5A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 609}}
+{"Business ID": "nFoosLWJGMBL5CRmrGUKyg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 610}}
+{"Business ID": "1UtavhY5umBJPJkP2jJGMw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 611}}
+{"Business ID": "KFmlknh94aV5MjFpZtsVqA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 612}}
+{"Business ID": "pmJqb7-EckluXUk6Rtml6A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 613}}
+{"Business ID": "0bM7u8ifFfXUnaybey3Yrg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 614}}
+{"Business ID": "qvjUByIi7smsytbgKF2BBg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 615}}
+{"Business ID": "eN7MYNtDzaMzk4WptrVw3A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 616}}
+{"Business ID": "6zM0c7vvoddgza_qvKkATw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 617}}
+{"Business ID": "vSkCDRWX6VvP4PJHHFgoDw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 618}}
+{"Business ID": "e-6UcplEErq2Hj14-eiM6Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 619}}
+{"Business ID": "iMMwN2ueNQviV6FOAT8vNw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 620}}
+{"Business ID": "xoeAD3yGMlv5Gq6HX79XQw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 621}}
+{"Business ID": "v5CsUc6pr7foHWsoQ0Y36Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 622}}
+{"Business ID": "c1HgKFOT4Cc7TqWQD5mQBQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 623}}
+{"Business ID": "gABJfl51T0QXitBlXlVB4g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 624}}
+{"Business ID": "zyG1GIU3KnIZ3bOVGgJXlA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 625}}
+{"Business ID": "YfJZBmm9tfW--W_WIGReqA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 626}}
+{"Business ID": "OUXpyNFn4XY-2cNyURHCQw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 627}}
+{"Business ID": "77zkzHD6Kavy1vT-sPXxJA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 628}}
+{"Business ID": "u0qfikB-ppp6UwoNKqxlRw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 629}}
+{"Business ID": "PQSrlPW8BGZr8AsgCxVcWQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 630}}
+{"Business ID": "YigPOZxASGQX1IniEyCp8g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 631}}
+{"Business ID": "eUFzb1iKTBlc-ScxSW6NCw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 632}}
+{"Business ID": "ptWTdgSzSpH-0LD24QIH-w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 633}}
+{"Business ID": "0ng8qzjd2ExoXJ4CuDwyWw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 634}}
+{"Business ID": "XQe54YWdzQHCsxdDVEGLrA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 635}}
+{"Business ID": "V58g7E1AHkuTchTVyLQuYQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 636}}
+{"Business ID": "spJTHaNjEzKwoEiYWR1ggA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 637}}
+{"Business ID": "pNbrxyrG5d5QwRsKbu0cXg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 638}}
+{"Business ID": "gNFgZSfndMAjK0ClvQ5Q2A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 639}}
+{"Business ID": "Jy7htqnnxlKB2vZO42_-aw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 640}}
+{"Business ID": "VEjkxniAlG35cR3pjHvF-A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 641}}
+{"Business ID": "QY_IgBYFzRulRV8sYUkHZQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 642}}
+{"Business ID": "1GNH6ZldleY8rKtWNZX_yg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 643}}
+{"Business ID": "B9JGlCZ6XkKPXXhTaYwAlA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 644}}
+{"Business ID": "2DlAPX4KBG8e7veOWYR6DQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 645}}
+{"Business ID": "oXkCGBRjP-qERDlEgPlwxQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 646}}
+{"Business ID": "MEaT9f2B4F0gvXhCir9v4w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 647}}
+{"Business ID": "0odtQty6tMRPQ7UrNysUxw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 648}}
+{"Business ID": "DPOWubhvyzYGjLbVvbr_sg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 649}}
+{"Business ID": "JbAdL2vOd-8O_Xa2wRktug", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 650}}
+{"Business ID": "ru9KtvY8f_b2SKrKwtS3CA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 651}}
+{"Business ID": "G8X7pC73zCRUxRPo1ULnQA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 652}}
+{"Business ID": "bVEvRibOk3dukWJ8TiU7GQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 653}}
+{"Business ID": "-EqTI_ssZs0iNM39KjzlQA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 654}}
+{"Business ID": "-blfi-MkfH1KxX9KrO59jw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 655}}
+{"Business ID": "8td6qiBvZ-En6gSpPjXWzQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 656}}
+{"Business ID": "dUfTg2SJ2nH48J8VhAuZ_A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 657}}
+{"Business ID": "d1pRHsBuYCZ4hdk0dyjE-g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 658}}
+{"Business ID": "S5VOBkNy0_yTG4SgZ2751g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 659}}
+{"Business ID": "FXFQJmhK6elesopXdhjvFQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 660}}
+{"Business ID": "_nloHouWAuEw7g7SgbAWOQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 661}}
+{"Business ID": "zlGiTzPQPLNQvZBCJYreog", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 662}}
+{"Business ID": "jfOMJ8y3llPbVJosDybLMw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 663}}
+{"Business ID": "OfVP8lDL1Juk8b8Hlx7fQg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 664}}
+{"Business ID": "gKjp0KHyrU1AFPOnkuo_Fw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 665}}
+{"Business ID": "1vZzyvUqDwZyaBqFk4zkKA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 666}}
+{"Business ID": "ELB1RgCv39PBewQx5gmW7Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 667}}
+{"Business ID": "G4qZvheX74VwYvek7I8iQg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 668}}
+{"Business ID": "Z263fPuSX3B3xNE7izgirw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 669}}
+{"Business ID": "bzr6GEQyjpgbkhHAsYaljQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 670}}
+{"Business ID": "um0U71kITL1NtD4Am6D8Mg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 671}}
+{"Business ID": "-5npn9NRmOun7VUVLZpjyw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 672}}
+{"Business ID": "yFub1BhKEP-W-_ZM3_nJoQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 673}}
+{"Business ID": "BJn68qCExYQrPCT7CeOpzw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 674}}
+{"Business ID": "igFRhlkG_cKF3a87fbVexw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 675}}
+{"Business ID": "XoJwcOxazBKvWikQCATS-w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 676}}
+{"Business ID": "PKkCtyZQpVEzivSF41ZgIw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 677}}
+{"Business ID": "To_cXGhJEjw3NT4v8mzFxg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 678}}
+{"Business ID": "1yGMdJX048NHUAAV-MLlWg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 679}}
+{"Business ID": "3TMP2pncE-0LwoDukbaqlg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 680}}
+{"Business ID": "_PdcklnobN5F81P_H2rk1A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 681}}
+{"Business ID": "ERFZd5sYGBrKQwqRKWwTQA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 682}}
+{"Business ID": "2roGBLPFp4X0sgmWuFEEBQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 683}}
+{"Business ID": "K6JvBpyRN3JguAoRkiIhiQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 684}}
+{"Business ID": "Ckz_1t4nUoFf2Yw-uuK4jQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 685}}
+{"Business ID": "WJS06XxRdc6DD1s4LWE9HA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 686}}
+{"Business ID": "neabGe_cEiXaNE1rESYPjw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 687}}
+{"Business ID": "CqvbXj6siqnBKaTjqNWwuw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 688}}
+{"Business ID": "DjQWozGcbnvLDSjuXG1NXQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 689}}
+{"Business ID": "_f6jjUliJY8IVrgkcgG_zw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 690}}
+{"Business ID": "cmssS5DPbF6Yv-EJdKVm_w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 691}}
+{"Business ID": "53y6b_-YaptXhlm2-STzeA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 692}}
+{"Business ID": "Hq2FG_zs4J7BTFwUF0VYrw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 693}}
+{"Business ID": "PkA0eLD1AZ0voGAmUSG9mg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 694}}
+{"Business ID": "BKABojUN3G9vUrG3AlDZgQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 695}}
+{"Business ID": "R0y03SFOY0BdHRUT1LSO0Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 696}}
+{"Business ID": "7DnZWIn1Dcsvq-_pIXXFZQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 697}}
+{"Business ID": "Y1s36Tk63HIzAc76X_fAiQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 698}}
+{"Business ID": "TRVWU2c4SzbsgWOo6Dz2Aw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 699}}
+{"Business ID": "IQ91FltwJmIPhS6fKKf2pw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 700}}
+{"Business ID": "rk8V5c1Wr5gVLKOaY0g4VQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 701}}
+{"Business ID": "0WDHtP31HeVY0LP8INiFzQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 702}}
+{"Business ID": "wkqE-uCft5yU1QMwZyrvsA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 703}}
+{"Business ID": "uaC_4pjwtdJ_SngBsJABHw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 704}}
+{"Business ID": "Yb6PQ_4YQpJ0SVZ1tetkbg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 705}}
+{"Business ID": "R8V6kbUtyfPAwNNu46vMvg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 706}}
+{"Business ID": "FDhOPRZ01PDEEH-QCnVIyQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 707}}
+{"Business ID": "CIV1wpkbmpdMPDCl1lNWhQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 708}}
+{"Business ID": "4HvBAmpVXUwW5BucwMR13Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 709}}
+{"Business ID": "dEp2ubj8SRGD32N3yw2h_A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 710}}
+{"Business ID": "PgiqzwIfcV2eruGmNx77lw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 711}}
+{"Business ID": "2rSmA4IK51QAQj60YGvjnw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 712}}
+{"Business ID": "bpeeh-kkay0ZE7mGXsCVKQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 713}}
+{"Business ID": "gj3TK9OEeXbb2-3Yp2Laxg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 714}}
+{"Business ID": "gl1p0g_BN_DC4Eh_hRaUEg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 715}}
+{"Business ID": "owKe1hapqCCLnme2Xr3mrA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 716}}
+{"Business ID": "dmX0ASRxBZJeMLFZ7WBK3g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 717}}
+{"Business ID": "VmhJfKhSFj3XOHTsT3Qhjg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 718}}
+{"Business ID": "MWcj6VKEO-6zU7HnyO02WQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 719}}
+{"Business ID": "LpfsAZ7mBmK1om17S477zA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 720}}
+{"Business ID": "L2ZW-MdvRJ3gM2RIq8STbA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 721}}
+{"Business ID": "ZdLS7gD1ulmCPkqNc9_S3A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 722}}
+{"Business ID": "U2x299aFPwXRYXlMxyO4tw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 723}}
+{"Business ID": "woylrqH13UJgLHtZx49eIA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 724}}
+{"Business ID": "_hIxEP_Wd13cjNJ1tcf6KQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 725}}
+{"Business ID": "nx4sK_yXLpHL1d3iKT7z3Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 726}}
+{"Business ID": "FbkZRYe4H7Mtj-3R40sehg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 727}}
+{"Business ID": "J8DcCIyjmwky9J3RdLQhJg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 728}}
+{"Business ID": "H89jrU17lNnguPaHbmzhAw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 729}}
+{"Business ID": "gPId7ENK1ZA1qrNwI4z4UQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 730}}
+{"Business ID": "_4UvguU5z2hMsHXlYedFXw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 731}}
+{"Business ID": "74SKT4IxG-hXz71nRbheng", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 732}}
+{"Business ID": "B8tDnyFltP3bxMxSsjCvVA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 733}}
+{"Business ID": "hjlvKeRTHA5mh1dNX4yM-w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 734}}
+{"Business ID": "RLAs8M-IQfAgp551rkFNGg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 735}}
+{"Business ID": "aPI3_mdisxIOo9EwBEJPZQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 736}}
+{"Business ID": "ATqzYWJLxhNlaXGjmHGNZQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 737}}
+{"Business ID": "IGjdEM0s4WfOYrMSzO6q9Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 738}}
+{"Business ID": "uiKZ8Th-Ld8EKJ9g_jc9bg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 739}}
+{"Business ID": "zEIt0xaPM9DIS-pc118O6A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 740}}
+{"Business ID": "ctfDC3-bK-Up3IC5wFnBVQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 741}}
+{"Business ID": "rDeFSYjPqpZI79tx2rYeUA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 742}}
+{"Business ID": "6qR5GGsP8BkyMfOY3dpmmw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 743}}
+{"Business ID": "84zvcPTAVCsSVtzCUtSDtA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 744}}
+{"Business ID": "7hyQqnnAisSL-nfIWCPziQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 745}}
+{"Business ID": "91rrB0aH3caC70oCkxAynA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 746}}
+{"Business ID": "TBW3arqP85VbGqOlQ3PM1Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 747}}
+{"Business ID": "Dh2I2jRTXE7oDCfuA9vCoQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 748}}
+{"Business ID": "d6i6sGHtPmyUkHze5S1lIQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 749}}
+{"Business ID": "hUTDWZofpjLrohhJMYeawA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 750}}
+{"Business ID": "HICimyBWKDwrXLnBuDZOZw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 751}}
+{"Business ID": "rL5F8YnQq9SY0hyece4W2w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 752}}
+{"Business ID": "8ELR553JyleoJYtT19yNQg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 753}}
+{"Business ID": "uvZKMl19GMOhf7zn1jsFdA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 754}}
+{"Business ID": "kwq1W0opBnOYKoUXWYyQ5g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 755}}
+{"Business ID": "KwTr8s5IrVq6tMO4XE6P-w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 756}}
+{"Business ID": "8SM-aKKwlK8JNaJTr60c6Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 757}}
+{"Business ID": "431U5dEbFQsp0esrYhdGfg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 758}}
+{"Business ID": "StFf9fVnAlhwrUWan0C4Ww", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 759}}
+{"Business ID": "Q3-zMT4lS0f3m-YK-eh_tw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 760}}
+{"Business ID": "9j5r0NlYKRkBTVvnAcUcwg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 761}}
+{"Business ID": "do4L5yWrrGPPZqVRZDcO2w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 762}}
+{"Business ID": "E2qpRYXvqPWklaSOvdnO4A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 763}}
+{"Business ID": "pmE7JG661llrNWu9IA5Y_Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 764}}
+{"Business ID": "iygZyb8glwWAV897IVTvwQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 765}}
+{"Business ID": "B3_K2kUVbYOU0VaLcj_LTw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 766}}
+{"Business ID": "qCskreGDQeNj5927Y2xEZQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 767}}
+{"Business ID": "TwxP5xU_xyzlf7SVzCnpuA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 768}}
+{"Business ID": "iAlqJJHbbeY2Lb7tPt_CQA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 769}}
+{"Business ID": "GS0K4qKF03bdetcB-CVflg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 770}}
+{"Business ID": "JDv_pfBjuaU3BR7GC6GxRQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 771}}
+{"Business ID": "-lDxXHNUNrwWUFnvnL_WSQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 772}}
+{"Business ID": "duofsxNkSFWVre6eV1uhUQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 773}}
+{"Business ID": "48-joHeN5Y-BWTDI38fzDA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 774}}
+{"Business ID": "HoU-pi4U4EK-AwkTxNCAEg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 775}}
+{"Business ID": "7wrFd9tnIBMClzDnrWdSNw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 776}}
+{"Business ID": "si4n0EtvAl3QisVHoKPOuw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 777}}
+{"Business ID": "0jksmaH2Fiy3VTricU7g9A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 778}}
+{"Business ID": "gNlPrIFgZHqO4dUdhbfekw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 779}}
+{"Business ID": "l5C_XHvTZihVzPKgclRZqg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 780}}
+{"Business ID": "1MqGlFP3b7H77fzUkJMKgw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 781}}
+{"Business ID": "42yAC0qRSLTYBcmdZs_9Dw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 782}}
+{"Business ID": "-zyyt6r1dou9i3vZxwWWeA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 783}}
+{"Business ID": "4pnfZWTgH2924iEKRa0hkw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 784}}
+{"Business ID": "NN3mOWF5e_pnR1ArqM2bHQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 785}}
+{"Business ID": "MNFx3dUarNK91enwaY1MGQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 786}}
+{"Business ID": "dBpttLTwkOT3HtFZ-u9vgQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 787}}
+{"Business ID": "QGXNIWYH0S8dGVDJoPs3OA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 788}}
+{"Business ID": "X5J3A4U8FrRC0bBmWRsAag", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 789}}
+{"Business ID": "xP7hDsKGMT44Ykmkr3gECA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 790}}
+{"Business ID": "yVDNPV0Yf3vQAsXTJett1g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 791}}
+{"Business ID": "D-PPbfPcCNyKs7w0J4tMvQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 792}}
+{"Business ID": "_Ge2eC89Z-jlaDDWglfT8g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 793}}
+{"Business ID": "CgYWuNH0UHd5vp2vGgKflw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 794}}
+{"Business ID": "-FSwYW_xV__5KHTIc56B0Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 795}}
+{"Business ID": "BG0F1eTMikmXnL2C03Oq3A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 796}}
+{"Business ID": "9v4l7pz4J709z0mkqUpQbw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 797}}
+{"Business ID": "e03tT0hH6qU-_dR8pwFa0Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 798}}
+{"Business ID": "OgWGHdj13_SZ8fN3RrwPcg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 799}}
+{"Business ID": "vPbJRg5umcRMELTDsJik_A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 800}}
+{"Business ID": "pqGGfA3Vm9srfTIJLgL0Ew", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 801}}
+{"Business ID": "er5IdZdfNkYsSigugyYvsw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 802}}
+{"Business ID": "dhB25jGq35AxU_ym6W0MVw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 803}}
+{"Business ID": "9jMek1KMCVXlRZJQWTCbxA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 804}}
+{"Business ID": "_ucIHYqW0ZwAdzaEIYnnsA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 805}}
+{"Business ID": "pepM7-yv4-jCT6S1nl6fPg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 806}}
+{"Business ID": "UyBbMNIM7zA3fh6lEnLiZQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 807}}
+{"Business ID": "DMD9T2qmLopzy0JjQYtCag", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 808}}
+{"Business ID": "AFidVhcRHCmlk6YxgRlO2Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 809}}
+{"Business ID": "vFmBN7U25QAIpTjK_EFmfA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 810}}
+{"Business ID": "E_V_pCjtbvdniE8ECOMg3Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 811}}
+{"Business ID": "bykNX7DuZc6hxjD07qtnow", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 812}}
+{"Business ID": "JWQlPP4Oxrtwb0rNjnVgIg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 813}}
+{"Business ID": "CgsvKB65PZrZV8AhnD-wnw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 814}}
+{"Business ID": "RrPIJvmje1qb9iaYd6jH0g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 815}}
+{"Business ID": "TxaxeiUqQqcFrWrerNqgXw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 816}}
+{"Business ID": "3DVKbi5cSLMlmph43RF_kA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 817}}
+{"Business ID": "ygXivebDgnAW3l7z9jQ6KQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 818}}
+{"Business ID": "rN347NNwQ0hDSlbedzI9BQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 819}}
+{"Business ID": "gSeftTpNCSj2vuXY0zyoRA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 820}}
+{"Business ID": "AocrQdF6uHOIgoYvJ4Db8g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 821}}
+{"Business ID": "2EX6_AH5gUj0fBY2YAnNrw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 822}}
+{"Business ID": "gxEYxWqKVhs8xBw9Lvd7hA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 823}}
+{"Business ID": "f7jZvRH-h76F4emzvKytaQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 824}}
+{"Business ID": "sjOp9UbbfKbohpEjQt2JRg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 825}}
+{"Business ID": "hDrPCldN8HJoQfK2a6t_uA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 826}}
+{"Business ID": "W3F9mpPyDJvCncnSKNgefw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 827}}
+{"Business ID": "SXH-A8k7t7C_lmzzVdWQTg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 828}}
+{"Business ID": "OLSSJIp8pu5UlugTF7tuHA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 829}}
+{"Business ID": "YTjUhZh-5IaNsTvzHsOUQQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 830}}
+{"Business ID": "h3yz3w8ke1jIaGnqGln93A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 831}}
+{"Business ID": "Nh7lqzBskdE42FMzSTMJAw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 832}}
+{"Business ID": "8ceGPxcSMdwa8k7y-DLZxA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 833}}
+{"Business ID": "kqJApXkfFn42SZZG7QTc4w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 834}}
+{"Business ID": "uthkinOdYCrM0j-5tYC63w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 835}}
+{"Business ID": "C0uaRMiXCCtjXdQSZhaU_A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 836}}
+{"Business ID": "9WgsvzaiXNAmmQGD0uQxFQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 837}}
+{"Business ID": "jaIkZodq6KexTtsiBgaffQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 838}}
+{"Business ID": "lprKZ3XmS2VuUdkHkCh2sQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 839}}
+{"Business ID": "yUVcpgecpq1qncpa1x34Hg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 840}}
+{"Business ID": "KUW8hx5kinOT_XJj3ttCDQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 841}}
+{"Business ID": "LflkBDk2-VlaUQ00MZbOQQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 842}}
+{"Business ID": "YGdl5Bb2ONrtixvgv1P26g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 843}}
+{"Business ID": "nFqb7D7nng2FKunqlSd6XA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 844}}
+{"Business ID": "_EgBjtufCZIWwUkRn53OAA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 845}}
+{"Business ID": "duVKdeFRXc6Tr2UY5vTPwQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 846}}
+{"Business ID": "IBMaz2RZPkU1Ng9b8A6ywg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 847}}
+{"Business ID": "SyEJPitYvvjrnnSXOzGcDA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 848}}
+{"Business ID": "v5YA6gFdj1jwTpz0Kjpjqw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 849}}
+{"Business ID": "PwIMIWCzL7tlOVb-v0_RKw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 850}}
+{"Business ID": "7Ap1bmY3u_uM9L63fy0g7A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 851}}
+{"Business ID": "cxBDRNIHTHg9X2xDuczPIg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 852}}
+{"Business ID": "3b04XIF9dvF4b5WZ4zYKOQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 853}}
+{"Business ID": "lRSiXYB09Z5x1iINqQ7rHA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 854}}
+{"Business ID": "3qK7p7vhthzsUC0_aYTlrA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 855}}
+{"Business ID": "BtsXojrMtfLRhhFK7rm35A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 856}}
+{"Business ID": "D1pXSDT0FAlsZ6Z7E_Sc3Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 857}}
+{"Business ID": "liGIz8CzhyS1udx1aefjng", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 858}}
+{"Business ID": "Pr-q47vsmM4aoc2t_Sfk8w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 859}}
+{"Business ID": "jqFPsQrQsgRkvUziYNKdSw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 860}}
+{"Business ID": "58jCXglRFRn6qwZ_IxYb6A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 861}}
+{"Business ID": "8_dWO1Y6o8fZk_FosHhg-A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 862}}
+{"Business ID": "IuMvrvXTTZm4NQYO1O1dbg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 863}}
+{"Business ID": "2FuFCA8uaRXUjpC_X941jA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 864}}
+{"Business ID": "entLjafiBAYOvbJYHRvyrw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 865}}
+{"Business ID": "__r8_g1cgDaiDn10cGeJ3Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 866}}
+{"Business ID": "xK8VkEUjAdfrtUBHhvs4Ww", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 867}}
+{"Business ID": "2IrDzLVFUFPp229c1x8YNw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 868}}
+{"Business ID": "rLu0Kbs0fCycSDzeDM2U_g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 869}}
+{"Business ID": "0kKYP-_ScvaHi0LUqg-iBA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 870}}
+{"Business ID": "HM6cvh5A9LLBeb4Sca6fPA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 871}}
+{"Business ID": "HR_a2QSA_KJZIakufAJUmg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 872}}
+{"Business ID": "GfLL6-n6UNZ07SEHfjeIgA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 873}}
+{"Business ID": "vWEdeCMkv93KzVzjKqdvBw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 874}}
+{"Business ID": "ADt4Wp-0XkSLXQ2nWoDnaw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 875}}
+{"Business ID": "2tR7d61tBGNlGaJRYvrN0Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 876}}
+{"Business ID": "38VMh0KbFDmy0femXXof2w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 877}}
+{"Business ID": "Y5NjZuIkWnV-ntd7BeUjzg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 878}}
+{"Business ID": "NJGtDl4jqIaRz0qEnfUOOQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 879}}
+{"Business ID": "qvXUXFKijyprAOMtxRGyGQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 880}}
+{"Business ID": "Gvg0ZLMsyZkLWHhT6uJs7w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 881}}
+{"Business ID": "Mc-uTqSARIIvdE8Jn8a5Yw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 882}}
+{"Business ID": "BV5Uvivsv_8_wCLK-S3eLw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 883}}
+{"Business ID": "T_72OxeFKvdzX-mKEztHdQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 884}}
+{"Business ID": "02zyTkuXvbGcbA9en_20Gw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 885}}
+{"Business ID": "akWRnF0VFJLJD4uOnGWB-g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 886}}
+{"Business ID": "WrvsoFjjRB1XpuiCI1fWFg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 887}}
+{"Business ID": "nznIq087BJUN1fLtPQ0Xww", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 888}}
+{"Business ID": "_C2cZ2EvptUbC16kRsUzUQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 889}}
+{"Business ID": "OSqcNi7EZLAMtuiQjuoiLg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 890}}
+{"Business ID": "0mPJL4IyM9-6ECADORl18Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 891}}
+{"Business ID": "RYoc4EBUNOtgbg7c32OG9A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 892}}
+{"Business ID": "N2uTH8yuSbIKw1jD47aJ9g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 893}}
+{"Business ID": "Jn7Wtek5_R12TKp2VUJuhw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 894}}
+{"Business ID": "osnb51lPIHxUKRlcg7idwA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 895}}
+{"Business ID": "_O3q6PSXNoPapUar-RVXPw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 896}}
+{"Business ID": "2lxsbaVX8REi0sbFu4TzpQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 897}}
+{"Business ID": "essVcYQ__u-hVR5Y0eAfSQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 898}}
+{"Business ID": "AAXX-WkDd1CW3_GgIVivvw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 899}}
+{"Business ID": "ziwipi8JK_ik4mLaw1fTGw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 900}}
+{"Business ID": "ekXcaHSWrvmSQafJHIU-Dw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 901}}
+{"Business ID": "0CS5pojhWYe6o4iPCEwlFw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 902}}
+{"Business ID": "x2CxAgm4vPmqoRTVqycdMQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 903}}
+{"Business ID": "43r4ynjeIZeQI1w7SWARuQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 904}}
+{"Business ID": "xi_QX5uArqDM4LeL4WIv1Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 905}}
+{"Business ID": "DV1oGQXPKqVOli_ejx-i9w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 906}}
+{"Business ID": "5rrGixafSO0bO42JEovuHQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 907}}
+{"Business ID": "WdvCF8x6_XcCEF-eyDduxw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 908}}
+{"Business ID": "xZ19F2iiWiA36LAS5PH_GA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 909}}
+{"Business ID": "RkPakW9XloEm-QB0eNlHmw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 910}}
+{"Business ID": "2-z6dRAkKupCyz1LF251pQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 911}}
+{"Business ID": "0yC40qHlgV3LTVx_jEr8pg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 912}}
+{"Business ID": "96D85AGxI37JNnveZbC6CA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 913}}
+{"Business ID": "kbHZif05N4bdPIWmAI-MaQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 914}}
+{"Business ID": "Xcx72D-DzpQ6o_ATEkpH5A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 915}}
+{"Business ID": "flmNwrxQfYNvWp7_-fZyDg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 916}}
+{"Business ID": "YCen62jqSWhPOAorQjSZdQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 917}}
+{"Business ID": "2YkqGzOldh-gcSSFkvP44Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 918}}
+{"Business ID": "RwT7wGzZzaMypW5mjNaNNA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 919}}
+{"Business ID": "Nvhx093-K2xwHIZVnFstJw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 920}}
+{"Business ID": "F2KRHRtnIAZJezs9UC2u6w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 921}}
+{"Business ID": "1QXTYR312XXgUExNmTEWuA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 922}}
+{"Business ID": "ubgtTdmGn9E-sfoaYCX5UQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 923}}
+{"Business ID": "Vu5qKqy-qmSGEK5btkxtig", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 924}}
+{"Business ID": "c2Io7q-9qu8jKCIlTWLqFA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 925}}
+{"Business ID": "L1Jw7GRSp9uS1l7PGSVVng", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 926}}
+{"Business ID": "xvmHLNpJBeutDYfw3yf4fg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 927}}
+{"Business ID": "-3A-kTdW-P32hoOMQeBl-A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 928}}
+{"Business ID": "IjRxYyr41Yl1fGhIrss1vg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 929}}
+{"Business ID": "l1JScxc5eWUYFmFl6sODgg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 930}}
+{"Business ID": "rhEfNtVrckQj-Ns44OBHgA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 931}}
+{"Business ID": "W1L0UB1MvlhvkKTF43emSA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 932}}
+{"Business ID": "741IMLpXPq755tDaEYXAtA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 933}}
+{"Business ID": "VDbMrjBq-XAKZTS_cgB9_A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 934}}
+{"Business ID": "OQz_k_yWmub01dPFISElLQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 935}}
+{"Business ID": "2dmgtQTFM7koKllEQsZmhQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 936}}
+{"Business ID": "fQ2IN15gqlRrE2oS39nXjw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 937}}
+{"Business ID": "q3DA0poiO5h1DPu0Rfhygg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 938}}
+{"Business ID": "ZyQfNryF0YBdzGnzLoVsWQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 939}}
+{"Business ID": "y8Z9Tos6qtDVd0X0QVm70g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 940}}
+{"Business ID": "_CcEaSKTpzZIczrRzCRAPQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 941}}
+{"Business ID": "xtxcAUvrD4dWHJd0cwvW1A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 942}}
+{"Business ID": "KgosIJNr-XTOsjkiKlS4vQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 943}}
+{"Business ID": "ZodRffm6pfjb6PPtvOZ5AQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 944}}
+{"Business ID": "9F3MR4JeKs7XukUzKQGc_w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 945}}
+{"Business ID": "RmQOUUkwHDhuuh9Y6XzLsQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 946}}
+{"Business ID": "nrsWSUJdNtOhV2UzPi-oOQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 947}}
+{"Business ID": "4PG9npz7q_LP2H5LfDjWig", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 948}}
+{"Business ID": "239gkHS4sotgrs7cK7QT-w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 949}}
+{"Business ID": "lBFq-P2OGDZy2aPEKgUMfg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 950}}
+{"Business ID": "6nvauDS1LzXU1CVweD8lKQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 951}}
+{"Business ID": "ikVDSp8YhAYuy0Lua1hpDA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 952}}
+{"Business ID": "vLPC4i4StmkyKLe2LrQX-A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 953}}
+{"Business ID": "kghCpDxjiwzsB0qc667-gQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 954}}
+{"Business ID": "y_ylOQzCP-9D_4DcUIJ3jA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 955}}
+{"Business ID": "xeJP91WQEqQlW7dV38K2ZA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 956}}
+{"Business ID": "SduYUnNnuA93MVg4FrIguA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 957}}
+{"Business ID": "QWskQ2QpR8bmza2FRFziOQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 958}}
+{"Business ID": "feY7PgoRjCp2qReaIitRkQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 959}}
+{"Business ID": "iYFauSnqLxvr4HTY_cIElg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 960}}
+{"Business ID": "9rMc6gAFLFCUHiUvjS9bsw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 961}}
+{"Business ID": "YJqM9wxCH-PNslHbffzbGg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 962}}
+{"Business ID": "yDS7SUTAe6y3BYKdepIrbg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 963}}
+{"Business ID": "njqbo43rFzj934E5eHbPCw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 964}}
+{"Business ID": "6kJxh1RCQykTHxWor538dA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 965}}
+{"Business ID": "J6ZCPE3Fu1Ikgy9qO7Cl3Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 966}}
+{"Business ID": "vgG8hgJbPLKfx-n9TYqCDw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 967}}
+{"Business ID": "EM6z-NkZ-q2KPWNY7aKvNw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 968}}
+{"Business ID": "zSeISbNAkJwTEqvUGNT-OA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 969}}
+{"Business ID": "GJeEre-eghcNHX5MkmNc2w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 970}}
+{"Business ID": "6qYic55Ho8xEL_iWxlrGSg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 971}}
+{"Business ID": "dSaMEWm0EQTG4TOeUetU5w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 972}}
+{"Business ID": "VKVKKCxE9aU6rgfGEkD0_A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 973}}
+{"Business ID": "Nxxn3PfmNvEtKCn_OSwY8A", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 974}}
+{"Business ID": "lxQ-tzFmL1tmUqZUN-CSRQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 975}}
+{"Business ID": "UXq4r-p6WbLI5MNeZ69qEA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 976}}
+{"Business ID": "ULDVJYTT-47RqbLtlR_FUA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 977}}
+{"Business ID": "RuOFTFVTEuYSswAlzjxvwQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 978}}
+{"Business ID": "ECKMWJwm_sihRQIP1ydeOA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 979}}
+{"Business ID": "5sG_S51rleFhCKLgQpXc_g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 980}}
+{"Business ID": "4YbhYETkSq2FpDtXRyzBEA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 981}}
+{"Business ID": "ybQV8joopvU1_gG2RwLRog", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 982}}
+{"Business ID": "QNLLWD_wbj8qt7MAsPxxLQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 983}}
+{"Business ID": "R1eZIyH8dOECfqUGGcANdQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 984}}
+{"Business ID": "sDaPycSxgCABsIeAdzn-yw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 985}}
+{"Business ID": "cvJ39wrAYnquWuMhfFAS2w", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 986}}
+{"Business ID": "UK1oGbr8GU2rufpnJR4-HQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 987}}
+{"Business ID": "_5E5cZP0PzkwfdEqTebBUg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 988}}
+{"Business ID": "oC1MLewpogrJUYoIeDoGBQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 989}}
+{"Business ID": "yxafWT37tEk0ivtTgi4Ebg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 990}}
+{"Business ID": "YkHSu1qIQvG9uxTTBUYIoQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 991}}
+{"Business ID": "WPi8dtuetzDN7EXNJoR7dA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 992}}
+{"Business ID": "XYdIb4Y9fCXNiHY3S1WAYw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 993}}
+{"Business ID": "DGrFKsyAOotGDJw-JyXsTw", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 994}}
+{"Business ID": "2AFr9Q5cfWh_lkj2ChykDg", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 995}}
+{"Business ID": "vdZaeSDbsWd_JeNqt92NmA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 996}}
+{"Business ID": "S7ivv5O0beH3U9cV3cRD_Q", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 997}}
+{"Business ID": "ENfB82aVceC3VcTfq54rxQ", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 998}}
+{"Business ID": "JRSAnPCs3jgiRVvE9j2S7g", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 999}}
+{"Business ID": "eKkwc5O8MnfPqDybnqRgCA", "cuisine": "Chinese"}
+{"index": {"_index": "restaurants", "_type": "Restaurant", "_id": 1000}}
+{"Business ID": "-L7j5gdIy_AFJMvEs9FK7Q", "cuisine": "Chinese"}
